@@ -1,0 +1,38 @@
+{
+    "static": {
+        "pack.png": {
+            "fetch": "pack.png"
+        },
+        "pack.mcmeta": {
+            "fetch": "pack.mcmeta"
+        },
+        "assets/minecraft/models/item/worker_helmet.json": {
+            "fetch": "assets/minecraft/models/item/worker_helmet.json"
+        },
+        "assets/minecraft/models/item/toolbox.json": {
+            "fetch": "assets/minecraft/models/item/toolbox.json"
+        },
+        "assets/minecraft/models/item/wrench.json": {
+            "fetch": "assets/minecraft/models/item/wrench.json"
+        },
+        "assets/minecraft/items/totem_of_undying.json": {
+            "fetch": "assets/minecraft/items/totem_of_undying.json"
+        },
+        "assets/minecraft/items/red_shulker_box.json": {
+            "fetch": "assets/minecraft/items/red_shulker_box.json"
+        },
+        "assets/minecraft/items/carved_pumpkin.json": {
+            "fetch": "assets/minecraft/items/carved_pumpkin.json"
+        },
+        "assets/minecraft/textures/item/wrench.png": {
+            "fetch": "assets/minecraft/textures/item/wrench.png"
+        },
+        "assets/minecraft/textures/item/toolbox.png": {
+            "fetch": "assets/minecraft/textures/item/toolbox.png"
+        },
+        "assets/minecraft/textures/item/builder_helmet.png": {
+            "fetch": "assets/minecraft/textures/item/builder_helmet.png"
+        }
+    },
+    "dynamic": {}
+}

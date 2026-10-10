@@ -1,0 +1,28 @@
+{
+    "static": {
+        "pack.mcmeta": {
+            "fetch": "/pack.mcmeta"
+        },
+        "pack.png": {
+            "fetch": "/pack.png"
+        },
+        "assets/minecraft/models/item/worker_helmet.json": {
+            "fetch": "/assets/minecraft/models/item/worker_helmet.json"
+        },
+        "assets/minecraft/models/item/wrench.json": {
+            "fetch": "/assets/minecraft/models/item/wrench.json"
+        },
+        "assets/minecraft/items/totem_of_undying.json": {
+            "fetch": "/assets/minecraft/items/totem_of_undying.json"
+        },
+        "assets/minecraft/items/carved_pumpkin.json": {
+            "fetch": "/assets/minecraft/items/carved_pumpkin.json"
+        },
+        "assets/minecraft/textures/item/wrench.png": {
+            "fetch": "/assets/minecraft/textures/item/wrench.png"
+        },
+        "assets/minecraft/textures/item/builder_helmet.png": {
+            "fetch": "/assets/minecraft/textures/item/builder_helmet.png"
+        }
+    }
+}
